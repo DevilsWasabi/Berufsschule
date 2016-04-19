@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Addition {
-	
+	//Test
 	public static void main (String[] args){
 		final int zahlenlength = 2;
 		double erg = 0.0;
